@@ -1,4 +1,4 @@
-# GitCommand
+# Common GitCommand for Android.
 ## git init => to initialize git in project
 ## git add fileName => to add a file/folder inside git
 ## git add . => to add all files/folders inside git 
